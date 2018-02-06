@@ -1,6 +1,6 @@
 # vue-json-election
 
-> this is a 
+> Using vue + element - UI implementation of triple check box
 
 ## Build Setup
 
